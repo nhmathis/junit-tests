@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="ADMINIB-5QCONLN" name="com.mkyong.test.TestMessage2" tests="1" time="0.006" timestamp="2017-07-17T19:11:55">
+  <properties>
+    <property name="java.vendor" value="IBM Corporation" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="os.name" value="Windows 7" />
+    <property name="sun.boot.class.path" value="C:\Program Files\IBM\sdk\jre\bin\compressedrefs\jclSC180\vm.jar;C:\Program Files\IBM\sdk\jre\lib\se-service.jar;C:\Program Files\IBM\sdk\jre\lib\math.jar;C:\Program Files\IBM\sdk\jre\lib\jlm.jar;C:\Program Files\IBM\sdk\jre\lib\ibmorb.jar;C:\Program Files\IBM\sdk\jre\lib\ibmorbapi.jar;C:\Program Files\IBM\sdk\jre\lib\ibmcfw.jar;C:\Program Files\IBM\sdk\jre\lib\ibmpkcs.jar;C:\Program Files\IBM\sdk\jre\lib\ibmcertpathfw.jar;C:\Program Files\IBM\sdk\jre\lib\ibmjgssfw.jar;C:\Program Files\IBM\sdk\jre\lib\ibmjssefw.jar;C:\Program Files\IBM\sdk\jre\lib\ibmsaslfw.jar;C:\Program Files\IBM\sdk\jre\lib\ibmjcefw.jar;C:\Program Files\IBM\sdk\jre\lib\ibmjgssprovider.jar;C:\Program Files\IBM\sdk\jre\lib\ibmjsseprovider2.jar;C:\Program Files\IBM\sdk\jre\lib\ibmcertpathprovider.jar;C:\Program Files\IBM\sdk\jre\lib\xmldsigfw.jar;C:\Program Files\IBM\sdk\jre\lib\xml.jar;C:\Program Files\IBM\sdk\jre\lib\charsets.jar;C:\Program Files\IBM\sdk\jre\lib\resources.jar;C:\Program Files\IBM\sdk\jre\lib\rt.jar;C:\Program Files\IBM\sdk\jre\lib\dataaccess.jar;C:\Program Files\IBM\sdk\jre\lib\ibmgpu.jar" />
+    <property name="sun.desktop" value="windows" />
+    <property name="tools.jar" value="C:\Program Files\IBM\sdk\lib\tools.jar" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.version" value="pwa6480sr1fp10-20150711_01 (SR1 FP10)" />
+    <property name="user.name" value="nhmathis" />
+    <property name="java.compiler" value="j9jit28" />
+    <property name="os.encoding" value="UTF8" />
+    <property name="com.ibm.util.extralibs.properties" value="" />
+    <property name="com.ibm.jcl.checkClassPath" value="" />
+    <property name="user.language" value="en" />
+    <property name="com.ibm.oti.vm.bootstrap.library.path" value="C:\Program Files\IBM\sdk\jre\bin\compressedrefs;C:\Program Files\IBM\sdk\jre\bin" />
+    <property name="sun.boot.library.path" value="C:\Program Files\IBM\sdk\jre\bin\compressedrefs;C:\Program Files\IBM\sdk\jre\bin" />
+    <property name="script.name" value="C:\Program Files\ibm-ucd\agent\var\plugins\com.urbancode.plugin.junit_3_55764980fcdcefeb1742960a5be9b33ea31d8a833b06a0a22e9686b89cd2d850\runTests.groovy" />
+    <property name="java.version" value="1.8.0" />
+    <property name="user.timezone" value="America/New_York" />
+    <property name="com.ibm.system.agent.path" value="C:\Program Files\IBM\sdk\jre\bin" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="com.ibm.zero.version" value="2" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\IBM\sdk\jre\lib\endorsed" />
+    <property name="com.ibm.oti.vm.library.version" value="28" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="com.ibm.packed.version" value="2" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="C:\Program Files\IBM\sdk\jre" />
+    <property name="java.vm.info" value="JRE 1.8.0 Windows 7 amd64-64 Compressed References 20150630_255633 (JIT enabled, AOT enabled)&#xa;J9VM - R28_jvm.28_20150630_1742_B255633&#xa;JIT  - tr.r14.java_20150625_95081.01&#xa;GC   - R28_jvm.28_20150630_1742_B255633_CMPRSS&#xa;J9CL - 20150630_255633" />
+    <property name="os.version" value="6.1" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="2.8" />
+    <property name="user.variant" value="" />
+    <property name="console.encoding" value="Cp437" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="ibm.signalhandling.sigint" value="true" />
+    <property name="user.home" value="C:\Users\IBM_ADMIN" />
+    <property name="com.ibm.cpu.endian" value="little" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="ibm.signalhandling.sigchain" value="true" />
+    <property name="java.library.path" value="C:\Program Files\IBM\sdk\jre\bin\compressedrefs;C:\Program Files\IBM\sdk\jre\bin;C:\windows\system32;C:\windows;C:\Progra~1\IBM\Java80\bin;C:\app\client\nhmathis\product\12.1.0\client_1\bin;C:\Users\IBM_ADMIN\apache-ant-1.9.6-bin\apache-ant-1.9.6\bin;C:\Users\IBM_ADMIN\AppData\Roaming\npm;C:\Progra~1\IBM\groovy-2.4.6\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Perforce;C:\Program Files\Perforce\DVCS\;C:\Program Files\gradle-2.12\bin;C:\Program Files (x86)\CloudFoundry;C:\Program Files\IBM\Bluemix\bin;%Sapjco%\sapjco3.jar;C:\apache-maven-3.3.9\bin;%TFSPowerToolDir%;C:\Users\IBM_ADMIN\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Progra~1\grails-3.1.8\bin;C:\Nick\RTC-scmTools-Win64-5.0.1\jazz\scmtools\eclipse;C:\Program Files (x86)\GNU\GnuPG\pub;C:\Program Files\CloudFoundry;C:\Program Files (x86)\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\nuget-3.5\bin;C:\Program Files\Amazon\AWSCLI\;C:\Ruby23-x64\bin;C:\Users\IBM_ADMIN\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\IBM_ADMIN\AppData\Local\Programs\Python\Python35-32\;%GROOVY%\bin;C:\Users\IBM_ADMIN\AppData\Local\atom\bin;C:\Program Files\Docker Toolbox;C:\Nick\RTC-scmTools-Win64-5.0.1\jazz\scmtools\eclipse\scm.exe;C:\Program Files\Git\bin;C:\Windows\System32;C:\Users\IBM_ADMIN\AppData\Local\Box\Box Edit\;C:\Program Files\ibm-ucd\agent\opt\udclient;." />
+    <property name="java.vendor.url" value="http://www.ibm.com/" />
+    <property name="program.name" value="" />
+    <property name="java.vm.vendor" value="IBM Corporation" />
+    <property name="java.fullversion" value="JRE 1.8.0 IBM J9 2.8 Windows 7 amd64-64 Compressed References 20150630_255633 (JIT enabled, AOT enabled)&#xa;J9VM - R28_jvm.28_20150630_1742_B255633&#xa;JIT  - tr.r14.java_20150625_95081.01&#xa;GC   - R28_jvm.28_20150630_1742_B255633_CMPRSS&#xa;J9CL - 20150630_255633" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner testsfile=C:\Users\IBM_AD~1\AppData\Local\Temp\junittestcases1562346845244614283.properties filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=true outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Nick\chTest\JUnitDemo\IGNORETHIS.xml crashfile=C:\Users\IBM_AD~1\AppData\Local\Temp\junitvmwatcher2577907837388393333.properties propsfile=C:\Users\IBM_AD~1\AppData\Local\Temp\junit548932003591908540.properties" />
+    <property name="java.class.path" value="C:\Nick\chTest\JUnitDemo\lib\aopalliance-1.0.jar;C:\Nick\chTest\JUnitDemo\lib\commons-logging-1.2.jar;C:\Nick\chTest\JUnitDemo\lib\hamcrest-core-1.3.jar;C:\Nick\chTest\JUnitDemo\lib\junit-4.11.jar;C:\Nick\chTest\JUnitDemo\lib\spring-aop-4.1.3.RELEASE.jar;C:\Nick\chTest\JUnitDemo\lib\spring-beans-4.1.3.RELEASE.jar;C:\Nick\chTest\JUnitDemo\lib\spring-context-4.1.3.RELEASE.jar;C:\Nick\chTest\JUnitDemo\lib\spring-core-4.1.3.RELEASE.jar;C:\Nick\chTest\JUnitDemo\lib\spring-expression-4.1.3.RELEASE.jar;C:\Nick\chTest\JUnitDemo\lib\spring-web-4.1.3.RELEASE.jar;C:\Nick\chTest\JUnitDemo\lib\spring-webmvc-4.1.3.RELEASE.jar;C:\Nick\chTest\JUnitDemo\war\WEB-INF\classes;C:\Program Files\ibm-ucd\agent\var\plugins\com.urbancode.plugin.junit_3_55764980fcdcefeb1742960a5be9b33ea31d8a833b06a0a22e9686b89cd2d850\lib\junit-4.11.jar;C:\Program Files\ibm-ucd\agent\opt\groovy-1.8.8\lib\ant-launcher-1.8.3.jar;C:\Program Files\ibm-ucd\agent\opt\groovy-1.8.8\lib\ant-1.8.3.jar;C:\Program Files\ibm-ucd\agent\opt\groovy-1.8.8\lib\ant-junit-1.8.3.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.3 compiled on February 26 2012" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="java.io.tmpdir" value="C:\Users\IBM_AD~1\AppData\Local\Temp\" />
+    <property name="ibm.system.encoding" value="Cp1252" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="ibm.signalhandling.rs" value="false" />
+    <property name="java.ext.dirs" value="C:\Program Files\IBM\sdk\jre\lib\ext" />
+    <property name="user.dir" value="C:\Nick\chTest\JUnitDemo\src" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="IBM J9 VM" />
+    <property name="com.ibm.oti.shared.enabled" value="false" />
+    <property name="groovy.starter.conf" value="C:\Program Files\ibm-ucd\agent\opt\groovy-1.8.8\conf\groovy-starter.conf" />
+    <property name="com.ibm.vm.bitmode" value="64" />
+    <property name="basedir" value="C:\Program Files\ibm-ucd\agent\var\work\JUnit Proc" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="C:\Program Files\ibm-ucd\agent\opt\groovy-1.8.8\lib\ant-1.8.3.jar" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="groovy.home" value="C:\Program Files\ibm-ucd\agent\opt\groovy-1.8.8" />
+    <property name="com.ibm.oti.configuration" value="scar" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="com.ibm.oti.jcl.build" value="20150630_255633" />
+  </properties>
+  <testcase classname="com.mkyong.test.TestMessage2" name="test_welcome_message_2" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
